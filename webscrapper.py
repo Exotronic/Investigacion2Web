@@ -1,11 +1,7 @@
 from bs4 import BeautifulSoup
 import re
 import requests
-import pandas as pd
-import random
-import os
 import io
-import time
 
 #Esta es la pagina inicial. De aqui se van a sacar los links de los autos a analizar.
 url = "https://www.encuentra24.com/costa-rica-es/autos-usados?q=number.50"
