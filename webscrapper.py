@@ -8,7 +8,7 @@ import io
 import time
 
 #Esta es la pagina inicial. De aqui se van a sacar los links de los autos a analizar.
-url = "https://www.encuentra24.com/costa-rica-es/autos-usados"
+url = "https://www.encuentra24.com/costa-rica-es/autos-usados?q=number.50"
 page = requests.get(url)
 #Esto parsea los contenidos con HTML Parsing.
 soup = BeautifulSoup(page.content, "html.parser")

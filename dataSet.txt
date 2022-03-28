@@ -1,4 +1,4 @@
-URL: https://www.encuentra24.com/costa-rica-es/autos-usados/perfecto-estado-dodge-charger-2014/21560968?list=category&catslug=autos-usados
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/perfecto-estado-dodge-charger-2014/21560968?q=number.50&list=category&catslug=autos-usados
 Localización: San Pablo
 Marca: Dodge
 Modelo: CHARGER
@@ -29,7 +29,7 @@ Sensores de retroceso
 Botón de arranque
 
 
-URL: https://www.encuentra24.com/costa-rica-es/autos-usados/maserati-ghibli-s-motor-ferrari-biturbo-whatsapp-7021-3885/21370585?list=category&catslug=autos-usados
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/maserati-ghibli-s-motor-ferrari-biturbo-whatsapp-7021-3885/21370585?q=number.50&list=category&catslug=autos-usados
 Localización: Heredia
 Marca: Maserati
 Modelo: Ghibli
@@ -69,7 +69,7 @@ Sensores de proximidad
 Botón de arranque
 
 
-URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2017-kia-sportage/21792558?list=category&catslug=autos-usados
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2017-kia-sportage/21792558?q=number.50&list=category&catslug=autos-usados
 Localización: Grecia
 Marca: Kia
 Modelo: Sportage
@@ -101,7 +101,7 @@ Sensores de retroceso
 Sensores de proximidad
 
 
-URL: https://www.encuentra24.com/costa-rica-es/autos-usados/citroen-c-elysee-exclusive-2014-incluye-traspaso/21579225?list=category&catslug=autos-usados
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/citroen-c-elysee-exclusive-2014-incluye-traspaso/21579225?q=number.50&list=category&catslug=autos-usados
 Localización: Alajuela Centro
 Marca: Citroen
 Modelo: C-Elysee
@@ -152,7 +152,7 @@ Sensores de retroceso
 Sensores de proximidad
 
 
-URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2013-mitsubishi-outlander/20042833?list=category&catslug=autos-usados
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2013-mitsubishi-outlander/20042833?q=number.50&list=category&catslug=autos-usados
 Localización: Grecia
 Marca: Mitsubishi
 Modelo: Outlander
@@ -182,7 +182,7 @@ Control de radio en el volante
 Bluetooth
 
 
-URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2017-hyundai-tucson/21776526?list=category&catslug=autos-usados
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2017-hyundai-tucson/21776526?q=number.50&list=category&catslug=autos-usados
 Localización: Grecia
 Marca: Hyundai
 Modelo: Tucson
@@ -216,7 +216,7 @@ Sensores de retroceso
 Sensores de proximidad
 
 
-URL: https://www.encuentra24.com/costa-rica-es/autos-usados/chevrolet-n300-7-pasajero-prima-4900000-impecable-se-financia-2-millones-a-15-meses/21539924?list=category&catslug=autos-usados
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/chevrolet-n300-7-pasajero-prima-4900000-impecable-se-financia-2-millones-a-15-meses/21539924?q=number.50&list=category&catslug=autos-usados
 Localización: Sanchez
 Marca: otros +
 Modelo: CHEVROLET N300 7 PASAJEROS
@@ -229,7 +229,7 @@ Combustible: Gasolina
 Product Features: 
 
 
-URL: https://www.encuentra24.com/costa-rica-es/autos-usados/nissan-xtrail/21735207?list=category&catslug=autos-usados
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/nissan-xtrail/21735207?q=number.50&list=category&catslug=autos-usados
 Localización: Pérez Zeledón
 Marca: Nissan
 Modelo: X-Trail
@@ -255,7 +255,7 @@ Bolsa de Aire - Pasajero
 CD Player
 
 
-URL: https://www.encuentra24.com/costa-rica-es/autos-usados/ford-focus-2012/21766645?list=category&catslug=autos-usados
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/ford-focus-2012/21766645?q=number.50&list=category&catslug=autos-usados
 Localización: Liberia
 Marca: Ford
 Modelo: Focus
@@ -268,7 +268,7 @@ Combustible: Gasolina
 Product Features: 
 
 
-URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2020-isuzu-d-max/21732454?list=category&catslug=autos-usados
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2020-isuzu-d-max/21732454?q=number.50&list=category&catslug=autos-usados
 Localización: Grecia
 Marca: Isuzu
 Modelo: D-MAX
@@ -301,7 +301,7 @@ Sensores de retroceso
 Sensores de proximidad
 
 
-URL: https://www.encuentra24.com/costa-rica-es/autos-usados/nissan-altima-2013-impecable/21678215?list=category&catslug=autos-usados
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/nissan-altima-2013-impecable/21678215?q=number.50&list=category&catslug=autos-usados
 Localización: Pavas
 Marca: Nissan
 Modelo: ALTIMA
@@ -314,7 +314,7 @@ Combustible: Gasolina
 Product Features: 
 
 
-URL: https://www.encuentra24.com/costa-rica-es/autos-usados/mercedes-benz-2020-glc-200-unico-dueno-13-000-km-servicios-de-agencia-todo-pagado/21461839?list=category&catslug=autos-usados
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/mercedes-benz-2020-glc-200-unico-dueno-13-000-km-servicios-de-agencia-todo-pagado/21461839?q=number.50&list=category&catslug=autos-usados
 Localización: Santa Ana
 Marca: Mercedes Benz
 Modelo: GLC-Class
@@ -350,7 +350,7 @@ Sensores de retroceso
 Botón de arranque
 
 
-URL: https://www.encuentra24.com/costa-rica-es/autos-usados/mitsubishi-outlander-2017-excelente-estado/21700086?list=category&catslug=autos-usados
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/mitsubishi-outlander-2017-excelente-estado/21700086?q=number.50&list=category&catslug=autos-usados
 Localización: Costa Rica
 Marca: Mitsubishi
 Modelo: Outlander
@@ -392,7 +392,7 @@ Entrada sin Llave
 CD Player
 
 
-URL: https://www.encuentra24.com/costa-rica-es/autos-usados/hyundai-h1-2017/21693843?list=category&catslug=autos-usados
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/hyundai-h1-2017/21693843?q=number.50&list=category&catslug=autos-usados
 Localización: Desamparados
 Marca: Hyundai
 Modelo: H1
@@ -427,7 +427,7 @@ Radio USB/AUX
 Sensores de retroceso
 
 
-URL: https://www.encuentra24.com/costa-rica-es/autos-usados/toyota-fortuner/21585467?list=category&catslug=autos-usados
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/toyota-fortuner/21585467?q=number.50&list=category&catslug=autos-usados
 Localización: Desamparados
 Marca: Toyota
 Modelo: Fortuner
@@ -442,6 +442,1012 @@ Timón Hidráulico
 Ventanas Eléctricas
 Cierre Central
 Espejos Eléctricos
+A/C
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/lexus-rx-450/21649875?q=number.50&list=category&catslug=autos-usados
+Localización: San Rafael
+Marca: Lexus
+Modelo: RX 450h
+Enviado: 05/03/2022
+Precio: $45,000.00
+Año: 2017
+Km: 101545
+Transmisión: Automática
+Combustible: Híbrido
+Product Features: 
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2018-toyota-tacoma/20875819?q=number.50&list=category&catslug=autos-usados
+Localización: Grecia
+Marca: Toyota
+Modelo: Tacoma
+Enviado: 03/03/2022
+Precio: ₡32,800,000
+Año: 2018
+Km: 0
+Transmisión: Automática
+Combustible: Gasolina
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+A/C
+Control De Audio En El Timón
+Bolsa de Aire - Conductor
+Bolsa de Aire - Pasajero
+Sistema de Seguridad
+Vidrios Ahumados
+Lámparas de Neblina
+Ventanas Deslizantes Traseras
+Escalón de Entrada
+Paquete de Remolque
+Gato Hidráulico
+Montacargas
+Cascaron de Pick Up
+DVD Player / TV
+CD Player
+Radio USB/AUX
+Control de radio en el volante
+Bluetooth
+Sensor de lluvia
+Sensores de retroceso
+Sensores de proximidad
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/435-m-bmw-unico-en-el-pais-coupe-m-racing-muflas-borla-disfrutelo-8-rebajado/21702986?q=number.50&list=category&catslug=autos-usados
+Localización: San Pedro
+Marca: BMW
+Modelo: 4 Series
+Enviado: 27/03/2022
+Precio: $35,500.00
+Motor: 3000
+Trendemanejo: 4x2
+Estilodelchasis: 2-puertas
+Estilo: Sedan
+Estéreo: CD Player
+Llantas: Llantas de Lujo
+Rines: Aleación
+Asientos: 4 Pasajeros
+Techo: Sunroof Electrico
+Año: 2014
+Km: 74000
+Transmisión: Automática
+Combustible: Gasolina
+Financiamiento: no
+Precionegociable: si
+Color: NEGRO
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+Asientos Eléctricos - Conductor
+Asientos Eléctricos - Pasajero
+A/C
+A/C Trasero
+Control de Navegación
+Control De Audio En El Timón
+Bolsa de Aire - Conductor
+Bolsa de Aire - Pasajero
+Sistema de Seguridad
+Limpia parabrisas trasero
+Vidrios Ahumados
+Lámparas de Neblina
+DVD Player / TV
+CD Player
+Radio USB/AUX
+Control de radio en el volante
+Bluetooth
+Asientos de Cuero
+Sensor de lluvia
+Sensores de retroceso
+Sensores de proximidad
+Botón de arranque
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/kia-sportage-2000cc-diesel-2005-4x4-manual/21622441?q=number.50&list=category&catslug=autos-usados
+Localización: Heredia
+Marca: Kia
+Modelo: Sportage
+Enviado: 26/03/2022
+Precio: ₡6,350,000
+Año: 2005
+Km: 277000
+Transmisión: Manual
+Combustible: Diesel
+Product Features: 
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2016-kia-sportage/21792485?q=number.50&list=category&catslug=autos-usados
+Localización: Grecia
+Marca: Kia
+Modelo: Sportage
+Enviado: 25/03/2022
+Precio: ₡12,800,000
+Año: 2016
+Km: 0
+Transmisión: Automática
+Combustible: Gasolina
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+A/C
+Control De Audio En El Timón
+Bolsa de Aire - Conductor
+Bolsa de Aire - Pasajero
+Sistema de Seguridad
+Limpia parabrisas trasero
+Gato Hidráulico
+CD Player
+Radio USB/AUX
+Control de radio en el volante
+Bluetooth
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2017-suzuki-vitara/21792372?q=number.50&list=category&catslug=autos-usados
+Localización: Grecia
+Marca: Suzuki
+Modelo: Vitara
+Enviado: 25/03/2022
+Precio: ₡12,500,000
+Año: 2017
+Km: 0
+Transmisión: Manual
+Combustible: Gasolina
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+A/C
+Control De Audio En El Timón
+Bolsa de Aire - Conductor
+Bolsa de Aire - Pasajero
+Sistema de Seguridad
+Limpia parabrisas trasero
+Lámparas de Neblina
+Gato Hidráulico
+Entrada sin Llave
+DVD Player / TV
+CD Player
+Radio USB/AUX
+Control de radio en el volante
+Bluetooth
+Sensores de retroceso
+Sensores de proximidad
+Botón de arranque
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2018-hyundai-accent/20316306?q=number.50&list=category&catslug=autos-usados
+Localización: Grecia
+Marca: Hyundai
+Modelo: Accent
+Enviado: 25/03/2022
+Precio: ₡9,800,000
+Año: 2018
+Km: 0
+Transmisión: Automática
+Combustible: Gasolina
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+A/C
+Control De Audio En El Timón
+Bolsa de Aire - Conductor
+Bolsa de Aire - Pasajero
+Vidrios Ahumados
+Radio USB/AUX
+Control de radio en el volante
+Bluetooth
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2007-toyota-rav4/20282865?q=number.50&list=category&catslug=autos-usados
+Localización: Grecia
+Marca: Toyota
+Modelo: RAV4
+Enviado: 25/03/2022
+Precio: ₡8,250,000
+Año: 2007
+Km: 0
+Transmisión: Automática
+Combustible: Gasolina
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+Asientos Eléctricos - Conductor
+A/C
+Control De Audio En El Timón
+Bolsa de Aire - Conductor
+Bolsa de Aire - Pasajero
+Sistema de Seguridad
+Limpia parabrisas trasero
+Vidrios Ahumados
+Lámparas de Neblina
+CD Player
+Control de radio en el volante
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2017-nissan-qashqai/20485891?q=number.50&list=category&catslug=autos-usados
+Localización: Grecia
+Marca: Nissan
+Modelo: Qashqai
+Enviado: 25/03/2022
+Precio: ₡12,500,000
+Año: 2017
+Km: 0
+Transmisión: Manual
+Combustible: Gasolina
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+A/C
+Control De Audio En El Timón
+Bolsa de Aire - Conductor
+Bolsa de Aire - Pasajero
+Sistema de Seguridad
+Limpia parabrisas trasero
+Utilidades
+Gato Hidráulico
+CD Player
+Radio USB/AUX
+Bluetooth
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2014-mazda-cx-5/21519989?q=number.50&list=category&catslug=autos-usados
+Localización: Grecia
+Marca: Mazda
+Modelo: CX-5
+Enviado: 25/03/2022
+Precio: ₡12,000,000
+Motor: 2000
+Estilo: SUV
+Estéreo: CD Player
+Rines: Aluminio
+Techo: Sunroof Electrico
+Año: 2014
+Km: 0
+Transmisión: Automática
+Combustible: Gasolina
+Garantía: Garantía Incluida preguntar por los detalles
+Financiamiento: si
+Precionegociable: si
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+A/C
+A/C Trasero
+Control De Audio En El Timón
+Bolsa de Aire - Conductor
+Bolsa de Aire - Pasajero
+Limpia parabrisas trasero
+Vidrios Ahumados
+Lámparas de Neblina
+Gato Hidráulico
+Entrada sin Llave
+CD Player
+Radio USB/AUX
+Control de radio en el volante
+Bluetooth
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2011-hyundai-h1/20911087?q=number.50&list=category&catslug=autos-usados
+Localización: Grecia
+Marca: Hyundai
+Modelo: H1
+Enviado: 25/03/2022
+Precio: ₡9,800,000
+Año: 2011
+Km: 0
+Transmisión: Automática
+Combustible: Diesel
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+A/C
+A/C Trasero
+Bolsa de Aire - Conductor
+Bolsa de Aire - Pasajero
+Sistema de Seguridad
+Limpia parabrisas trasero
+Vidrios Ahumados
+Lámparas de Neblina
+Gato Hidráulico
+CD Player
+Radio USB/AUX
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2015-honda-civic/20857253?q=number.50&list=category&catslug=autos-usados
+Localización: Grecia
+Marca: Honda
+Modelo: Civic
+Enviado: 25/03/2022
+Precio: ₡10,000,000
+Año: 2015
+Km: 0
+Transmisión: Automática
+Combustible: Gasolina
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+A/C
+Control De Audio En El Timón
+Bolsa de Aire - Conductor
+Bolsa de Aire - Pasajero
+Sistema de Seguridad
+Vidrios Ahumados
+Gato Hidráulico
+Entrada sin Llave
+DVD Player / TV
+CD Player
+Radio USB/AUX
+Control de radio en el volante
+Bluetooth
+Sensores de proximidad
+Botón de arranque
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2017-hyundai-elantra/21046418?q=number.50&list=category&catslug=autos-usados
+Localización: Grecia
+Marca: Hyundai
+Modelo: Elantra
+Enviado: 25/03/2022
+Precio: ₡9,500,000
+Año: 2017
+Km: 0
+Transmisión: Automática
+Combustible: Gasolina
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+A/C
+Control De Audio En El Timón
+Bolsa de Aire - Conductor
+Bolsa de Aire - Pasajero
+Sistema de Seguridad
+Vidrios Ahumados
+Lámparas de Neblina
+Gato Hidráulico
+DVD Player / TV
+CD Player
+Radio USB/AUX
+Control de radio en el volante
+Bluetooth
+Sensores de retroceso
+Sensores de proximidad
+Botón de arranque
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2019-hyundai-elantra/20110853?q=number.50&list=category&catslug=autos-usados
+Localización: Grecia
+Marca: Hyundai
+Modelo: Elantra
+Enviado: 25/03/2022
+Precio: ₡13,500,000
+Año: 2019
+Km: 0
+Transmisión: Automática
+Combustible: Gasolina
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+A/C
+Control de Navegación
+Control De Audio En El Timón
+Bolsa de Aire - Conductor
+Bolsa de Aire - Pasajero
+Sistema de Seguridad
+Vidrios Ahumados
+Gato Hidráulico
+DVD Player / TV
+CD Player
+Radio USB/AUX
+Control de radio en el volante
+Bluetooth
+Sensor de lluvia
+Sensores de retroceso
+Sensores de proximidad
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2012-hyundai-tucson/21785662?q=number.50&list=category&catslug=autos-usados
+Localización: Grecia
+Marca: Hyundai
+Modelo: Tucson
+Enviado: 24/03/2022
+Precio: ₡9,300,000
+Año: 2012
+Km: 0
+Transmisión: Automática
+Combustible: Gasolina
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+A/C
+Control De Audio En El Timón
+Bolsa de Aire - Conductor
+Bolsa de Aire - Pasajero
+Sistema de Seguridad
+Limpia parabrisas trasero
+Vidrios Ahumados
+Lámparas de Neblina
+Gato Hidráulico
+CD Player
+Radio USB/AUX
+Control de radio en el volante
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2015-hyundai-tucson/21784538?q=number.50&list=category&catslug=autos-usados
+Localización: Grecia
+Marca: Hyundai
+Modelo: Tucson
+Enviado: 24/03/2022
+Precio: ₡12,500,000
+Año: 2015
+Km: 68395
+Transmisión: Automática
+Combustible: Diesel
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+Asientos Eléctricos - Conductor
+A/C
+Control De Audio En El Timón
+Bolsa de Aire - Conductor
+Bolsa de Aire - Pasajero
+Sistema de Seguridad
+Limpia parabrisas trasero
+Vidrios Ahumados
+Lámparas de Neblina
+Escalón de Entrada
+Gato Hidráulico
+CD Player
+Radio USB/AUX
+Control de radio en el volante
+Bluetooth
+Asientos de Cuero
+Sensores de retroceso
+Sensores de proximidad
+Botón de arranque
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/recibo-carro-como-parte-de-pago/21677965?q=number.50&list=category&catslug=autos-usados
+Localización: Desamparados
+Marca: BMW
+Modelo: X5
+Enviado: 24/03/2022
+Precio: ₡53,000,000
+Año: 2003
+Km: 0
+Transmisión: Automática
+Combustible: Gasolina
+Product Features: 
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2016-toyota-corolla/21776418?q=number.50&list=category&catslug=autos-usados
+Localización: Grecia
+Marca: Toyota
+Modelo: Corolla
+Enviado: 23/03/2022
+Precio: ₡10,300,000
+Año: 2016
+Km: 0
+Transmisión: Automática
+Combustible: Gasolina
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+A/C
+Control De Audio En El Timón
+Bolsa de Aire - Conductor
+Bolsa de Aire - Pasajero
+Sistema de Seguridad
+DVD Player / TV
+CD Player
+Radio USB/AUX
+Control de radio en el volante
+Bluetooth
+Sensores de retroceso
+Sensores de proximidad
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/microbus-jac-sunray-2013-manual-diesel-unico-dueno/21770807?q=number.50&list=category&catslug=autos-usados
+Localización: Mercedes
+Marca: Jac
+Modelo: Sunray
+Enviado: 22/03/2022
+Precio: ₡11,500,000
+Motor: 2800
+Asientos: 15-30 Pasajeros
+Año: 2013
+Km: 54352
+Transmisión: Manual
+Combustible: Diesel
+Precionegociable: si
+Color: Blanco
+Product Features: 
+Timón Hidráulico
+Ventanas Eléctricas
+Espejos Eléctricos
+A/C
+A/C Trasero
+Bolsa de Aire - Conductor
+Lámparas de Neblina
+Gato Hidráulico
+DVD Player / TV
+Bluetooth
+Asientos de Cuero
+Sensores de retroceso
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/bmw-serie-x3-modelo-2014-oportunidad/20990797?q=number.50&list=category&catslug=autos-usados
+Localización: Alajuela Centro
+Marca: BMW
+Modelo: X3
+Enviado: 22/03/2022
+Precio: $22,000.00
+Año: 2014
+Km: 107048
+Transmisión: Automática
+Combustible: Diesel
+Product Features: 
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/mitsubishi-l200/21495937?q=number.50&list=category&catslug=autos-usados
+Localización: Desamparados
+Marca: Mitsubishi
+Modelo: L 200
+Enviado: 21/03/2022
+Precio: ₡15,350,000
+Año: 2015
+Km: 101000
+Transmisión: Manual
+Combustible: Diesel
+Garantía: Garantía Incluida preguntar por los detalles
+Financiamiento: si
+Precionegociable: si
+Product Features: 
+Timón Hidráulico
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+A/C
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/para-inscripcion/21748722?q=number.50&list=category&catslug=autos-usados
+Localización: San Pablo
+Marca: Toyota
+Modelo: Land Cruiser
+Enviado: 19/03/2022
+Precio: ₡15,000,000
+Motor: 4200 turbo diesell
+Estilodelchasis: 5-puertas
+Estéreo: CD Player
+Llantas: Todo Terreno
+Rines: Fabrica
+Asientos: 7-10 Pasajeros
+Techo: Sunroof Electrico
+Año: 2001
+Km: 327076
+Transmisión: Automática
+Combustible: Diesel
+Garantía: 30 días, garantía limitada en 1000 km. Ver los detalles de envio del distribuidor.
+Financiamiento: no
+Precionegociable: si
+Color: Gris
+Product Features: 
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/honda-crv/21476816?q=number.50&list=category&catslug=autos-usados
+Localización: Desamparados
+Marca: Honda
+Modelo: CR-V
+Enviado: 17/03/2022
+Precio: ₡11,800,000
+Año: 2012
+Km: 55000
+Transmisión: Automática
+Combustible: Gasolina
+Product Features: 
+Timón Hidráulico
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+A/C
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/toyota-hilux-2014-67000-kms-recorridos/21730001?q=number.50&list=category&catslug=autos-usados
+Localización: Grecia
+Marca: Toyota
+Modelo: Hilux
+Enviado: 16/03/2022
+Precio: $33,175.00
+Motor: 3000
+Trendemanejo: 4WD
+Estilodelchasis: 4-puertas
+Estilo: Pickup
+Estéreo: CD Player
+Llantas: Todo Terreno
+Rines: Lujo
+Asientos: 5 Pasajeros
+Techo: Standard
+Año: 2014
+Km: 67000
+Transmisión: Manual
+Combustible: Diesel
+Garantía: Garantía Incluida preguntar por los detalles
+Financiamiento: si
+Precionegociable: si
+Color: Blanco
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+A/C
+Bolsa de Aire - Conductor
+Bolsa de Aire - Pasajero
+Sistema de Seguridad
+Vidrios Ahumados
+Lámparas de Neblina
+Escalón de Entrada
+Paquete de Remolque
+Gato Hidráulico
+CD Player
+Radio USB/AUX
+Bluetooth
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/chevrolet-spark-2018-excelente-estado/21697177?q=number.50&list=category&catslug=autos-usados
+Localización: Mata Redonda
+Marca: Chevrolet
+Modelo: Spark
+Enviado: 16/03/2022
+Precio: $12,000.00
+Motor: 1400
+Trendemanejo: 2WD
+Estilodelchasis: 5-puertas
+Estilo: Hatchback
+Asientos: 5 Pasajeros
+Año: 2018
+Km: 83000
+Transmisión: Automática
+Combustible: Gasolina
+Color: Gris
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+A/C
+Control De Audio En El Timón
+Bolsa de Aire - Conductor
+Bolsa de Aire - Pasajero
+Vidrios Ahumados
+Radio USB/AUX
+Control de radio en el volante
+Bluetooth
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/hyundai-terracan-mod-2003/21720172?q=number.50&list=category&catslug=autos-usados
+Localización: San Rafael
+Marca: Hyundai
+Modelo: Terracan
+Enviado: 15/03/2022
+Precio: ₡5,900,000
+Llantas: Todo Terreno
+Rines: Lujo
+Asientos: 7 Pasajeros
+Techo: Standard
+Año: 2003
+Km: 125000
+Transmisión: Automática
+Combustible: Diesel
+Garantía: Extensa garantía disponible. Solicitar detalles.
+Financiamiento: si
+Precionegociable: si
+Color: Negro
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+Asientos Eléctricos - Conductor
+A/C
+Control De Audio En El Timón
+Bolsa de Aire - Conductor
+Bolsa de Aire - Pasajero
+Limpia parabrisas trasero
+Lámparas de Neblina
+CD Player
+Control de radio en el volante
+Asientos de Cuero
+Sensores de proximidad
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/hyundai-tucson/21476855?q=number.50&list=category&catslug=autos-usados
+Localización: Desamparados
+Marca: Hyundai
+Modelo: Tucson
+Enviado: 15/03/2022
+Precio: ₡10,500,000
+Año: 2013
+Km: 55000
+Transmisión: Automática
+Combustible: Diesel
+Product Features: 
+Timón Hidráulico
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+A/C
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/venta-ssang-yong-tivoli-2018-seminuevo/21718516?q=number.50&list=category&catslug=autos-usados
+Localización: Santa Ana
+Marca: SsangYong
+Modelo: Tivoli
+Enviado: 15/03/2022
+Precio: $14,000.00
+Trendemanejo: 2WD
+Estilodelchasis: 5-puertas
+Estilo: SUV
+Rines: Aluminio
+Asientos: 5 Pasajeros
+Techo: Standard
+Año: 2018
+Km: 32000
+Transmisión: Automática
+Combustible: Gasolina
+Garantía: 30 días, garantía limitada en 1000 km. Ver los detalles de envio del distribuidor.
+Financiamiento: no
+Precionegociable: si
+Color: GRIS
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+A/C
+Control De Audio En El Timón
+Bolsa de Aire - Conductor
+Bolsa de Aire - Pasajero
+Sistema de Seguridad
+Limpia parabrisas trasero
+Vidrios Ahumados
+Lámparas de Neblina
+Ventanas Deslizantes Traseras
+Radio USB/AUX
+Control de radio en el volante
+Bluetooth
+Botón de arranque
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/ford-f250/21522835?q=number.50&list=category&catslug=autos-usados
+Localización: Grecia
+Marca: Ford
+Modelo: F-250
+Enviado: 15/03/2022
+Precio: ₡14,000,000
+Año: 2004
+Km: 200
+Transmisión: Automática
+Combustible: Diesel
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+A/C
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/2008-ford-f350-super-duty-king-ranch/21519705?q=number.50&list=category&catslug=autos-usados
+Localización: Grecia
+Marca: Ford
+Modelo: F-350 Super Duty
+Enviado: 15/03/2022
+Precio: ₡25,000,000
+Año: 2008
+Km: 200
+Transmisión: Automática
+Combustible: Diesel
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+Asientos Eléctricos - Conductor
+A/C
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/nissan-frontier-np300/21476878?q=number.50&list=category&catslug=autos-usados
+Localización: Desamparados
+Marca: Nissan
+Modelo: Frontier
+Enviado: 15/03/2022
+Precio: ₡20,700,000
+Año: 2017
+Km: 58000
+Transmisión: Manual
+Combustible: Diesel
+Product Features: 
+Timón Hidráulico
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+A/C
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/kia-sorento-2017/21393603?q=number.50&list=category&catslug=autos-usados
+Localización: Ciudad Quesada
+Marca: Kia
+Modelo: Sorento
+Enviado: 14/03/2022
+Precio: ₡17,800,000
+Motor: 2200 cc
+Trendemanejo: 4WD
+Estilodelchasis: 5-puertas
+Estilo: SUV
+Llantas: Todo Terreno
+Rines: Lujo
+Asientos: 7 Pasajeros
+Vagóntrasero: Regular
+Techo: Standard
+Año: 2017
+Km: 60000
+Transmisión: Automática
+Combustible: Diesel
+Precionegociable: si
+Color: vino
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+A/C
+A/C Trasero
+Control de Navegación
+Control De Audio En El Timón
+Bolsa de Aire - Conductor
+Bolsa de Aire - Pasajero
+Sistema de Seguridad
+Limpia parabrisas trasero
+Vidrios Ahumados
+Lámparas de Neblina
+Paquete de Remolque
+Gato Hidráulico
+Entrada sin Llave
+DVD Player / TV
+Control de radio en el volante
+Bluetooth
+Sensores de retroceso
+Sensores de proximidad
+Botón de arranque
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/fortuner-limited-edition/21709161?q=number.50&list=category&catslug=autos-usados
+Localización: San José provincia
+Marca: Toyota
+Modelo: Fortuner
+Enviado: 14/03/2022
+Precio: $60,800.00
+Motor: 2.8cc
+Trendemanejo: 4WD
+Estilodelchasis: 4-puertas
+Estilo: SUV
+Asientos: 7 Pasajeros
+Año: 2019
+Km: 32500
+Transmisión: Automática
+Combustible: Diesel
+Color: Café
+Product Features: 
+Timón Hidráulico
+Frenos ABS
+Ventanas Eléctricas
+Cierre Central
+Espejos Eléctricos
+Asientos Eléctricos - Conductor
+A/C
+A/C Trasero
+Control de Navegación
+Control De Audio En El Timón
+Bolsa de Aire - Conductor
+Bolsa de Aire - Pasajero
+Sistema de Seguridad
+Limpia parabrisas trasero
+Vidrios Ahumados
+Lámparas de Neblina
+Ventanas Deslizantes Traseras
+Escalón de Entrada
+Paquete de Remolque
+Gato Hidráulico
+Entrada sin Llave
+CD Player
+Radio USB/AUX
+Control de radio en el volante
+Bluetooth
+Asientos de Cuero
+Sensor de lluvia
+Botón de arranque
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/isuzu-dmax-3-0-2017-highpower/21482218?q=number.50&list=category&catslug=autos-usados
+Localización: Colima
+Marca: Isuzu
+Modelo: D-MAX
+Enviado: 14/03/2022
+Precio: ₡23,000,000
+Año: 2017
+Km: 117000
+Transmisión: Automática
+Combustible: Diesel
+Product Features: 
+
+
+URL: https://www.encuentra24.com/costa-rica-es/autos-usados/hyundai-tucson-limited/21685455?q=number.50&list=category&catslug=autos-usados
+Localización: Desamparados
+Marca: Hyundai
+Modelo: Tucson
+Enviado: 11/03/2022
+Precio: ₡10,500,000
+Año: 2012
+Km: 45000
+Transmisión: Automática
+Combustible: Diesel
+Financiamiento: si
+Precionegociable: si
+Product Features: 
+Timón Hidráulico
+Cierre Central
+Espejos Eléctricos
+Ventanas Eléctricas
 A/C
 
 
